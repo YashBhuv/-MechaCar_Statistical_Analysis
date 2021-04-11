@@ -52,6 +52,7 @@ Here the p-value is below the significance level of 0.05 percent, so we can reje
 ![6](https://user-images.githubusercontent.com/64053195/114321528-3b6d2c00-9ae9-11eb-9af8-7ace4481b3f1.png)
 
 ![7](https://user-images.githubusercontent.com/64053195/114321544-49bb4800-9ae9-11eb-8211-0f2b0928c245.png)
+
 Here both p-values are above the significance level, so we can conclude that the PSI for Lot2 and Lot3 are statistically similar to the population mean.
 
 ## Study Design: MechaCar vs Competition

@@ -21,9 +21,13 @@ So the slope of the linear model is not considered to be zero.
 -R-square is 0.71 so 71% of the variations in mpg can be explained by changes in the vehicle length, the vehicle weight, the spoiler angle, the drivetrain and the ground clearance. We can consider this linear model as fairly efficient to predict mpg of MechaCar prototypes.
 
 ## Summary Statistics on Suspension Coils
+
 ![2](https://user-images.githubusercontent.com/64053195/114321450-d4e80e00-9ae8-11eb-9380-64a54f4badf9.png)
+
 All manufacturing lots
+
 ![3](https://user-images.githubusercontent.com/64053195/114321458-dc0f1c00-9ae8-11eb-8a13-73280e8c2af4.png)
+
 By each manufacturing lot
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
@@ -32,6 +36,7 @@ On the lot level, Lot 1 and Lot 2 are into specs with respectively variances of 
 
 ## T-Tests on Suspension Coils
 ### T-Test all manufacturing lots against the population mean
+
 ![4](https://user-images.githubusercontent.com/64053195/114321494-0660d980-9ae9-11eb-9729-4e13894d3924.png)
 
 Assuming our significance level is the common 0.05 percent, our p-value of 0.069 is above the significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we can state that the PSI across all manufacturing lots is statiscally similar to the population mean of 1498.78 psi.
@@ -45,6 +50,7 @@ Here the p-value is below the significance level of 0.05 percent, so we can reje
 
 ### Lot2 and Lot3
 ![6](https://user-images.githubusercontent.com/64053195/114321528-3b6d2c00-9ae9-11eb-9af8-7ace4481b3f1.png)
+
 ![7](https://user-images.githubusercontent.com/64053195/114321544-49bb4800-9ae9-11eb-8211-0f2b0928c245.png)
 Here both p-values are above the significance level, so we can conclude that the PSI for Lot2 and Lot3 are statistically similar to the population mean.
 

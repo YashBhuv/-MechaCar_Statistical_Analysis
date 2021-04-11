@@ -5,7 +5,7 @@ All of the statistical analysis and visualizations is written in the R programmi
 ## Resources
 Software: RStudio 1.3.1093
 
-Linear Regression to Predict MPG
+## Linear Regression to Predict MPG
 ![1](https://user-images.githubusercontent.com/64053195/114321371-85094700-9ae8-11eb-810e-21c323c896d0.png)
 
 In the summary output, each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. According to our results vehicle length and ground clearance (and Intercept) provide a non-random amount of variance to the linear model of mpg.
